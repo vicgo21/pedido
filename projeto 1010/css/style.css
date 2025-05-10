@@ -1,0 +1,15 @@
+
+video {
+    max-width: 100%
+    heihgt: auto;
+}
+
+.button-container {
+    flex-wrap: wrap
+    gap: 10px;
+}
+
+.button {
+    font-size: 1em;
+    padding: 10px 20px;
+}
